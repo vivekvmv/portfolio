@@ -1,5 +1,5 @@
 # Researcher
-About Me
+**About Me**
 I am a data science researcher with experience in both the industry and academia, specializing in affective computing. My research primarily concentrates on emotion processing using facial cues and physiological signals. I am eager to advance in the fields of technology, research, and development, aiming to make a significant impact in the digital era.
 
 ## Area of Interest
@@ -11,28 +11,29 @@ Affective computing, signal processing, artificial intelligence, and data scienc
 - B.Sc., Computer Science| Mahatma Gandi University, Kottayam (2015-2018)
 
 ## Research Publications
-- Patent - A Walking Stick incorporating human emotion recognition techniques - Official Journal of The Patent Office, India.
-- Journal Publication
+- **Patent**
+  - A Walking Stick incorporating human emotion recognition techniques - Official Journal of The Patent Office, India.
+- **Journal Publication**
   - A Distributed Ensemble Machine Learning Technique for Emotion Classification From VocalCues, in the 10th International Conference on Big DataAnalytics (BDA2022), IIITH Lecture Notes in ComputerScience, vol 13773. Springer - Publication Link
-- Conference Publications
+- **Conference Publications**
   - Precision-Based Weighted Blending DistributedEnsemble Model for Emotion Classification.Algorithms 2022. - Publication Link
   - Comprehensive Review of Compound FacialEmotion Recognition in Affective Computing, in theICETRFAI-2025, HCC Trichy - In Press
   - Distributed Machine Learning Frameworks for Emotion Classification Leveraging Facial ActionCoding System Features, ICCC 2025 - Under reviewResearcherData
   
 ## Research Experience & Subjects Taught
-- TaughtBuilt a prototype of the device to capture human emotions from physiological signals.
+- Built a device prototype to capture human emotions from physiological signals.
 - Developed and implemented DL-based models for detecting emotions from images and videos.
 - Conducted an extensive literature review focusing on the processing of emotions through visual cues and physiological signals.
 - Subjects Taught: Machine learning, Deep learning, Big data analytics, Image and video analytics, Python.
 
 # Experience
-- Research Internship
+- **Research Internship**
   - SIP23 on Machine learning and AnalyticsRobotics And Machine ANalitics(RAMAN)Lab, Malviya National Institute of Technology. (June 2023 - July 2023), Jaipur, Rajasthan
-- Post Qualification Trainee
+- **Post Qualification Trainee**
   - Computer Centre, Fertilisers And ChemicalsTravancore (FACT) Ltd. (May 2020 - June 2020), Kochi
-- Data Analyst Intern
+- **Data Analyst Intern**
   - Sabari Distribution Pvt Ltd. (October 2019 - June 2020), Kochi
- - IoT Intern
+ - **IoT Intern**
    - KTS InfoTech Pvt. Ltd. (Dec 2017 - Mar 2018), Palai
 
 ## Professional Achievements
@@ -42,12 +43,12 @@ Affective computing, signal processing, artificial intelligence, and data scienc
 - Served as a resource person for online sessions in Deep Generative Models - Saintgits College of Engineering(Autonomous), Kottayam, Kerala.
 
 ## Academic Projects & Projects Guided
-- Ask MedX: First Aid Chatbot using LLM RAGand IBM watsonx.
-- Emosense: a mobile application for facial emotion recognition.
-- Plant Doctor: Android app for medicinalplant identification based on deeplearning.
+- **Ask MedX**: First Aid Chatbot using LLM RAGand IBM watsonx.
+- **Emosense**: a mobile application for facial emotion recognition.
+- **Plant Doctor**: Android app for medicinal plant identification based on deeplearning.
 - LSTM model for household product demand forecasting.
-- Score Predictor: A Flask-based web app using machine learning.
-- Android app for remote fan control based on IoT.
+- **Score Predictor**: A Flask-based web app using machine learning.
+- **Smart Fan**:Android app for remote fan control based on IoT.
 
 ## Certifications
 - NPTEL: Affective Computing
