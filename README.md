@@ -18,7 +18,7 @@ Affective computing, signal processing, artificial intelligence, and data scienc
 - **Conference Publications**
   - Precision-Based Weighted Blending DistributedEnsemble Model for Emotion Classification.Algorithms 2022. - Publication Link
   - Comprehensive Review of Compound FacialEmotion Recognition in Affective Computing, in theICETRFAI-2025, HCC Trichy - In Press
-  - Distributed Machine Learning Frameworks for Emotion Classification Leveraging Facial ActionCoding System Features, ICCC 2025 - Under reviewResearcherData
+  - Distributed Machine Learning Frameworks for Emotion Classification Leveraging Facial ActionCoding System Features, ICCC 2025 - Accepted 
   
 ## Research Experience & Subjects Taught
 - Built a device prototype to capture human emotions from physiological signals.
